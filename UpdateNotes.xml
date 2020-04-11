@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateNotes>
+	<n4>
+		<version>1.2.1</version>
+		<notes>- Added simplified Chinese in-game item descriptions (thanks Nep.Bin)</notes>
+	</n4>
 	<n3>
 		<version>1.2</version>
 		<notes>- Estus and Ashen stamina cost reverted back to normal\n- offhand rotten ghru doesn't block anymore\n- offhand murkey doesn't use shield attacks \n- Fixed parrying dagger offhand\n- Fixed crossbow reload back to vanilla \n- Irithyll SS and SKSS don't have poise for 2h \n- Fixed issue where you can recovery cancel offhand attacks \n- Fixed issue where certain stance attacks don't come out fast enough \n- Fixed quickstep glitch and now it stuns properly \n- Changed harald/mechete firt r1s \n- Nerfed shields damage and block frames\n- Fixed parry frames for crow quills \n- bows that had puncture as weapon art now use puncture all the time as normal arrow \n- composite/short bows have faster r1 to r1 bow \n- pharis is able to fire 3 arrows from normal r1s/r2s \n- ledos when buffed now can feint</notes>
