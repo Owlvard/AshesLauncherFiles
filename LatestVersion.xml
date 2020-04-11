@@ -6,5 +6,5 @@
 	<showAfterUpdateMessage>false</showAfterUpdateMessage>
 	<afterUpdateMessage>Thank you for trying out this Launcher. It's still a very early prototype so if you find any bugs please contact us on discord.</afterUpdateMessage>
 	<changelogURL>https://bit.ly/ashes-changelog</changelogURL>
-	<changelogURL_CHN></changelogURL_CHN>
+	<changelogURL_CHN>https://nbviewer.jupyter.org/github/SirHalvard/AshesLauncherFiles/blob/master/%E7%8E%8B%E8%80%85%E9%81%97%E7%81%B0%20%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf</changelogURL_CHN>
 </Ashes>
