@@ -5,4 +5,6 @@
 	<updateModEngineIni>false</updateModEngineIni>
 	<showAfterUpdateMessage>false</showAfterUpdateMessage>
 	<afterUpdateMessage>Thank you for trying out this Launcher. It's still a very early prototype so if you find any bugs please contact us on discord.</afterUpdateMessage>
+	<changelogURL>https://bit.ly/ashes-changelog</changelogURL>
+	<changelogURL_CHN></changelogURL_CHN>
 </Ashes>
