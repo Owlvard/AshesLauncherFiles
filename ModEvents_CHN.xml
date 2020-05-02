@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModEvents>
   <e1>
-    <title>King of the Kill</title>
+    <title>事件：杀戮之王</title>
     <thumbnailURL>https://i.filmot.com/iwUXsIS.png</thumbnailURL>
-    <message>事件：杀戮之王\n四月24 - 五月 26 \n制作最精彩的pvp视频,以多样化的武器切换取胜，赢取你的专属盔甲皮肤，更多资料请加入qq群咨询。</message>
+    <message>四月24 - 五月 26 \n制作最精彩的pvp视频,以多样化的武器切换取胜，赢取你的专属盔甲皮肤，更多资料请加入qq群咨询。</message>
   </e1>
 </ModEvents>
