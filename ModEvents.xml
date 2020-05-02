@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModEvents>
+  <e2>
+    <title>New Tournament</title>
+    <thumbnailURL>https://i.filmot.com/Jb3swh6.png</thumbnailURL>
+    <message>100 USD prize pool tournament. Earn your place by participating in the live streamed fight club on May 9th. Open to everyone &amp; co-hosted by Figher PL.\n\nMay 9th Qualifier: bit.ly/ashes-tournament-qualifier\nMay 16th Tourney: https://bit.ly/ashes-tournament</message>
+  </e2>
+  <e1>
+    <title>King of the Kill</title>
+    <thumbnailURL>https://i.filmot.com/iwUXsIS.png</thumbnailURL>
+    <message>April 24th - May 26th\n\nEarn your own custom armor retexture by participating in a video competition. See details in the Ashes Discord server. (Events Section)</message>
+  </e1>
 </ModEvents>
