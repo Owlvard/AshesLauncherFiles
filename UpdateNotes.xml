@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateNotes>
+	<n9>
+		<version>1.3.4</version>
+		<notes>Changes\n-------------------\n\nEnabled voice chat for every phantom\nExecutioner’s Charge now provides a lighting buff on smough’s greathammer.\n\n\n\nBug Fixes\n---------------\n\n- Fixed missing file left out of the previous patch by accident.\n- Fixed millwood axe WA allowing 2 hits after the last hit.\n- Executioner’s charge now true combos into the extension.</notes>
+	</n9>
 	<n8>
 		<version>1.3.3</version>
 		<notes>Balance Changes\n-------------------------\n\nStraight Swords\n- Slightly reduced physical scaling on Shortsword.\n\nReapers \n- Added damage reduction to Neck Swipe WA during hyperarmor frames. \n\nGreathammers\n- Replaced Galvanise WA on Smough’s Greathammer with new WA - “Executioner’s Charge”.\n\nStaves/Catalysts\n- Added a new third 1h R2 for Staves. \n\nRings \n- Flynn&apos;s Ring now has: \n      - Reduced weight. \n      - Increased status effect bonuses. \n      - Increased physical damage bonuses. \n\nSpells\n- Reduced hitstun on Black Serpent to Dagger Stun. \n- Increased Faith requirement for Blessed Weapon miracle from 15 to 20. \n\n\nBug Fixes\n---------------\n\n- Fixed bug for perfect block mechanic that didn’t allow you to perfect block when one-handing certain weapons with shields. \n- Fixed bug that allowed Gold and Silver Tracers WA to infinite combo. \n- Fixed bug with Eleonora where it had Sever WA instead of Spin Slash WA. \n- Fixed bug with Old King’s Greathammer where it still applied Perseverance WA when not meeting requirements. \n- Fixed bug with Dragon Bone Smasher where it had Greatsword moveset when equipped in the left hand. \n- Fixed bug that allowed two handed straight swords to feint forever with R2’s</notes>
