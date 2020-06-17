@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModEvents>
   <e2>
-    <title>Tournament on the 15th &amp; 16th</title>
-    <thumbnailURL>https://i.filmot.com/Jb3swh6.png</thumbnailURL>
-    <message>100 USD prize pool tournament. Earn your place by participating in the live streamed fight club on May 15th. Open to everyone &amp; co-hosted by Figher PL.\n\nMay 15th Qualifier: bit.ly/ashes-tournament-qualifier\nMay 16th Tourney: https://bit.ly/ashes-tournament</message>
+    <title>Welcome Home, Good Hunter...</title>
+    <thumbnailURL>https://i.filmot.com/sr3spNQ.png</thumbnailURL>
+    <message>Eight legendary trick weapons have been\nadded to Ashes with full functionality, feints,\nand movesets! Keep your eyes out for the\nnext trick weapon coming soon...</message>
   </e2>
   <e1>
-    <title>King of the Kill</title>
-    <thumbnailURL>https://i.filmot.com/iwUXsIS.png</thumbnailURL>
-    <message>April 24th - May 26th\n\nEarn your own custom armor retexture by participating in a video competition. See details in the Ashes Discord server. (Events Section)</message>
+    <title>Review: First Tournament</title>
+    <thumbnailURL>https://i.filmot.com/r0vy9Pm.png</thumbnailURL>
+    <message>Thanks to all who attended our first King \nof the Keep event and the $150 Finals!\nIf you missed it, you can check out a recap of\nthe events on Youtube.</message>
   </e1>
 </ModEvents>
