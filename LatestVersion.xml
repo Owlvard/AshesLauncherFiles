@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Ashes>
-	<version>1.4.4</version>
-	<url>https://www.googleapis.com/drive/v3/files/1AWUAS6K8g8_6FYTa0eAvj2y8nzjJ_g-l?alt=media&amp;key=AIzaSyAZTyNTYh5qiw-NRVCBDZOL3AFtY0tNkpY</url>
+	<version>1.4.5</version>
+	<url>https://github.com/SirHalvard/Champions-Ashes/archive/1.4.5.zip</url>
 	<updateModEngineIni>false</updateModEngineIni>
 	<showAfterUpdateMessage>false</showAfterUpdateMessage>
 	<afterUpdateMessage>Thank you for trying out this Launcher. It's still a very early prototype so if you find any bugs please contact us on discord.</afterUpdateMessage>
